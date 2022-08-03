@@ -16,7 +16,7 @@
 
 ![ssh.png](screenshots/ssh.png)
 
-## 2-Downloading packages inside the vm to use kubectl.
+## 2-Downloading packages inside the vm .
 
 1- openjdk = > following these steps :  [https://www.cloudbooklet.com/how-to-install-java-on-google-cloud-ubuntu-18-04-lts/](https://www.cloudbooklet.com/how-to-install-java-on-google-cloud-ubuntu-18-04-lts/)
 
